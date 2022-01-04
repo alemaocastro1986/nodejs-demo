@@ -1,0 +1,11 @@
+{
+  "name": "freecodecamp",
+  "description": "Node.js and Express.js - Full Course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrius Cunha Castro",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
